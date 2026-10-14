@@ -1,0 +1,13 @@
+student_id,name,age,class_section,score
+S001,Aarav,18,A,85.5
+S002,Diya,19,B,91
+S003,Kabir,,A,78
+S004,Meera,18,C,88
+S005,Ishaan,20,B,missing
+S002,Diya,19,B,91
+S006,Anaya,21,A,95
+S007,Vivaan,18,C,82
+S008,Sara,,B,89
+S009,Reyansh,19,A,76
+S010,Aditi,20,C,84
+S011,Rohan,18,B,80
